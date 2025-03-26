@@ -26,11 +26,11 @@ TransactionLocation, UserHomeLocation
 How to Run the Project
 
  1. Prerequisites
-Make sure you have Python 3.7+ and the following libraries installed:
+Making sure we have Python 3.7+ and the following libraries installed:
 
-```bash
+
 pip install pandas numpy scikit-learn matplotlib seaborn
-```
+
 
 2. Files
 
