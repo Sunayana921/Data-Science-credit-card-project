@@ -40,7 +40,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 | `fraud_detection_enhanced.py` | Main Python script |
 | `creditcard_enhanced.csv` (optional) | Enhanced dataset after feature simulation |
 
- 3. ▶️ Running the Project
+3. Running the Project
 
 Run the Python script from your terminal or IDE:
 
